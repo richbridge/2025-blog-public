@@ -50,9 +50,9 @@
 		},
 		{
 			"id": "juejin",
-			"type": "bilibili",
+			"type": "juejin",
 			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"label": "哔哩哔哩",
 			"order": 2
 		},
 		{
