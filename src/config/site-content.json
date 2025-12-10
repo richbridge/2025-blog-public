@@ -63,7 +63,7 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": true,
+	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
