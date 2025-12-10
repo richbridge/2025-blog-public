@@ -66,5 +66,7 @@
 	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
-	"hideEditButton": false
+	"hideEditButton": false,
+	"currentHatIndex": 1,
+	"hatFlipped": false
 }
